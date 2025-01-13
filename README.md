@@ -1,8 +1,6 @@
 # react-jobly
 
 - start the back end server:
-  cd backend and run nodemon server.js
-  nodemon server.js
+  cd backend and run command "nodemon server.js"
 - start front end:
-  cd frondend
-  npm run dev
+  cd frondend and run command "npm run dev"
